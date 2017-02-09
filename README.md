@@ -1,1 +1,2 @@
-my practice about word2vec using skip-gram method implemented by tensorflow
+my practice about word2vec using skip-gram method implemented by tensorflow<br>
+=
